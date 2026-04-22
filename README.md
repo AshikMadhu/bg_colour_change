@@ -1,6 +1,6 @@
 # 🎨 Background Colour Change 
 
-A simple project to change background colors using HTML, CSS, and JavaScript.
+A simple background colour changing using HTML, CSS, and JavaScript.
 
 ---
 
